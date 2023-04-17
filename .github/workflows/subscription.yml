@@ -1,0 +1,45 @@
+name: Subscription Control
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Run the job every hour
+
+jobs:
+  subscription:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install requirements
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub
+
+    - name: Subscription Control
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        from github import Github
+        try:
+            g = Github(env['GITHUB_TOKEN'])
+            user = g.get_user()
+            following = user.get_following()
+            followers = user.get_followers()
+
+            # Add new subscriptions
+            for follower in followers:
+                if follower not in following:
+                    user.add_to_following(follower)
+
+            # Remove old subscriptions
+            for follow in following:
+                if follow not in followers:
+                    user.remove_from_following(follow)
+        except Exception as e:
+            print("An error occurred:", e)
