@@ -25,12 +25,24 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="36" height="36" alt="GitHub" title="GitHub" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="36" height="36" alt="GitLab" title="GitLab" /></a>
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="36" height="36" alt="CI/CD" title="CI/CD" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code" /></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="36" height="36" alt="Windows" title="Windows" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" width="36" height="36" alt="Godot" title="Godot" /></a>
+
 </p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kybuivan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 ### GitHub Profile Trophy
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kybuivan&theme=algolia&no-frame=false&no-bg=false&margin-w=8&column=-1"/></p>
@@ -42,4 +54,7 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
   <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"/>
 </div>
 
+
+
 <img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake Animation" width="100%"/>
+
