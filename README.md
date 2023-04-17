@@ -16,7 +16,7 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 * ✉️  You can contact me at [ky.buivan.dev@gmail.com](mailto:ky.buivan.dev@gmail.com)
 * 🚀  I'm currently working on [polaroid](http://github.com/kybuivan/polaroid)
 * 🧠  I'm learning c++20 modules
-* 🤝  I'm open to collaborating on on any open source project
+* 🤝  I'm open to collaborating on any open source project
 * ⚡  I would love to help you study CMake, OpenCV, ImGui, and C++
 
 
@@ -37,9 +37,9 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title= false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake Animation" width="100%"/>
