@@ -11,6 +11,10 @@ C++ Developer
 
 As a self-taught developer with 3 years of experience in C++, I have a keen interest in computer vision and game engine development. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
 
+<a target="_blank" align="center">
+  <img align="right" width="42%" alt="GIF"  src="img/coding-typing.gif">
+</a>
+
 * 🌍  I'm based in Hanoi
 * 🖥️  See my portfolio at [kybuivan.github.io](http://kybuivan.github.io/)
 * ✉️  You can contact me at [ky.buivan.dev@gmail.com](mailto:ky.buivan.dev@gmail.com)
@@ -49,9 +53,10 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"/>
-  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="54%" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="44%" alt="languages graph"/>
+
+  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="60%" alt="streak graph"/>
 </div>
 
 
