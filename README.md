@@ -52,14 +52,14 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kybuivan&theme=algolia&no-frame=false&no-bg=false&margin-w=8&column=-1"/></p>
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="54%" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="44%" alt="languages graph"/>
-
-  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="60%" alt="streak graph"/>
+<div align="right">
+  <a href="">
+    <img alt="Error using wakatime API, reload the page to try again" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kybuivan&theme=dracula&Cache-Control=no-cache"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="50%" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="50%" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kybuivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="50%" alt="languages graph"/>
 </div>
-
-
 
 <img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake Animation" width="100%"/>
 
