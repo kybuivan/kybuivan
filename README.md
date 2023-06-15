@@ -1,13 +1,9 @@
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ky Bui Van!
-==================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ky Bui Van!
 
 ![](https://komarev.com/ghpvc/?username=kybuivan&style=flat-square&label=Views)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
-C++ Developer
--------------
+## C++ Developer
 
 As a self-taught developer with 3 years of experience in C++, I have a keen interest in computer vision and game engine development. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
 
@@ -15,14 +11,13 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
   <img align="right" width="42%" alt="GIF"  src="img/coding-typing.gif">
 </a>
 
-* 🌍  I'm based in Hanoi
-* 🖥️  See my portfolio at [kybuivan.github.io](http://kybuivan.github.io/)
-* ✉️  You can contact me at [ky.buivan.dev@gmail.com](mailto:ky.buivan.dev@gmail.com)
-* 🚀  I'm currently working on [polaroid](http://github.com/kybuivan/polaroid)
-* 🧠  I'm learning c++20 modules
-* 🤝  I'm open to collaborating on any open source project
-* ⚡  I would love to help you study CMake, OpenCV, ImGui, and C++
-
+- 🌍 I'm based in Hanoi
+- 🖥️ See my portfolio at [kybuivan.github.io](http://kybuivan.github.io/)
+- ✉️ You can contact me at [ky.buivan.dev@gmail.com](mailto:ky.buivan.dev@gmail.com)
+- 🚀 I'm currently working on [polaroid](http://github.com/kybuivan/polaroid)
+- 🧠 I'm learning c++20 modules
+- 🤝 I'm open to collaborating on any open source project
+- ⚡ I would love to help you study CMake, OpenCV, ImGui, and C++
 
 ### Skills
 
@@ -46,15 +41,18 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ### GitHub Profile Trophy
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kybuivan&theme=algolia&no-frame=false&no-bg=false&margin-w=8&column=-1"/></p>
 
 ### GitHub Stats
+
 <div align="right">
   <a href="">
-    <img alt="Error using wakatime API, reload the page to try again" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kybuivan&theme=dracula&Cache-Control=no-cache"/>
+    <img alt="Error using wakatime API, reload the page to try again" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kybuivan&theme=dracula&Cache-Control=no-cache"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=kybuivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="50%" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=kybuivan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="50%" alt="streak graph"/>
@@ -62,4 +60,3 @@ As a self-taught developer with 3 years of experience in C++, I have a keen inte
 </div>
 
 <img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake Animation" width="100%"/>
-
