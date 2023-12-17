@@ -5,7 +5,7 @@
 
 ## C++ Developer
 
-As a self-taught developer with 3 years of experience in C++, I have a keen interest in computer vision and game engine development. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
+As a self-taught developer with 4 years of experience in C++, I have a keen interest in computer vision and game engine development. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
 
 <a target="_blank" align="center">
   <img align="right" width="42%" alt="GIF"  src="img/coding-typing.gif">
