@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=kybuivan&style=flat-square&label=Views)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-## C++ Developer
+## Software Engineer
 
 As a self-taught developer with 4 years of experience in C++, I have a keen interest in computer vision and game engine development. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
 
