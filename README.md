@@ -15,7 +15,7 @@ As a self-taught developer with 4 years of experience in C++, I have a keen inte
 - 🖥️ See my portfolio at [kybuivan.github.io](http://kybuivan.github.io/)
 - ✉️ You can contact me at [ky.buivan.dev@gmail.com](mailto:ky.buivan.dev@gmail.com)
 - 🚀 I'm currently working on [polaroid](http://github.com/kybuivan/polaroid)
-- 🧠 I'm learning c++20 modules
+- 🧠 I'm learning game engine
 - 🤝 I'm open to collaborating on any open source project
 - ⚡ I would love to help you study CMake, OpenCV, ImGui, and C++
 
